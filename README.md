@@ -1,4 +1,4 @@
-# Unmasked
+# Unmasked (DubHacks 2026)
 
 Unmasked is a privacy-first extension that exposes greenwashing, verifies seller claims, and decodes fine print—helping shoppers spend ethically and buy with confidence.
 
@@ -10,3 +10,4 @@ Unmasked is a privacy-first extension that exposes greenwashing, verifies seller
 
 ## Built With
 JavaScript, Python
+
